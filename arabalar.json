@@ -1,24 +1,19 @@
-{"arabalar" :[
-   {
-    "araba_adi" : "Mercedes",
-    "ulke" : "Almanya",
-    "kurulus_tarihi" : 1890,
-
-
-  },
-
-  {
-    "araba_adi" : "Honda",
-    "ulke" : "Japonya",
-    "kurulus_tarihi" : 1920,
-
-  },
-
-  {
-    "araba_adi" : "Renault",
-    "ulke" : "Fransa",
-    "kurulus_tarihi" : 1910,
-
-  }
-
-]}
+{
+    "arabalar": [
+        {
+            "araba_adi": "Mercedes",
+            "ulke": "Almanya",
+            "kurulus_tarihi": 1890
+        },
+        {
+            "araba_adi": "Honda",
+            "ulke": "Japonya",
+            "kurulus_tarihi": 1920
+        },
+        {
+            "araba_adi": "Renault",
+            "ulke": "Fransa",
+            "kurulus_tarihi": 1910
+        }
+    ]
+}
