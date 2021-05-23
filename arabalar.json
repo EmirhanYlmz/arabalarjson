@@ -1,19 +1,15 @@
 {
-    "arabalar": [
-        {
-            "araba_adi": "Mercedes",
-            "ulke": "Almanya",
-            "kurulus_tarihi": 1890
-        },
-        {
-            "araba_adi": "Honda",
-            "ulke": "Japonya",
-            "kurulus_tarihi": 1920
-        },
-        {
-            "araba_adi": "Renault",
-            "ulke": "Fransa",
-            "kurulus_tarihi": 1910
-        }
-    ]
+"arabalar" :[
+{
+  "marka" : "Ford",
+  "model" : "mustang",
+  "resim" : "https://cdn.motor1.com/images/mgl/J7EjQ/s1/electric-ford-mustang-by-charge-cars.jpg"
+},
+{
+  "marka" : "BMW",
+  "model" : "bmw320d",
+  "resim" : "https://uploads.carandbike.com/used/42865/large/bmw-3-series-rear-left-rim.jpg?v=1581946851"
+}
+
+]
 }
