@@ -2,14 +2,18 @@
 "arabalar" :[
 {
   "marka" : "Ford",
-  "model" : "mustang",
+  "model" : "Mustang",
   "resim" : "https://cdn.motor1.com/images/mgl/J7EjQ/s1/electric-ford-mustang-by-charge-cars.jpg"
 },
 {
   "marka" : "BMW",
-  "model" : "bmw320d",
+  "model" : "320d",
   "resim" : "https://uploads.carandbike.com/used/42865/large/bmw-3-series-rear-left-rim.jpg?v=1581946851"
+},
+{
+  "marka" : AUDI
+  "model" : "A5",
+  "resim" : "https://cdn.pixabay.com/photo/2018/04/28/13/28/car-3357296_960_720.jpg"
 }
-
 ]
 }
